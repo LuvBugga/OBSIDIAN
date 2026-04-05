@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## 
+## TO DO
 
 - [ ] Learn Python
 - [ ] Learn Maths
