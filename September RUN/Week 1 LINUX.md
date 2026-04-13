@@ -13,4 +13,16 @@
 - Linus Torvalds began developing a new kernel as his personal project (now known as Linux Kernel), which filled the GNU operating System's missing piece.
 - The combination of GNU tools and Linux Kernel created the complete open-source operating system that we know today.
 # Linux Distribution
-The word 'Linux' that people often use nowadays, is actually the Linux Kernel  
+- The word 'Linux' that people often use nowadays, is actually the Linux Kernel not the entire operating system.
+- The entire operating system consists of the Kernel itself and the Linux Distributions (or Linux Distros).
+- We can also say that the Linux Distros are entire operating systems built around the Linux Kernel.
+- The Linux system is divided into 3 parts:
+	- The Hardware : The physical components of your computer.
+	- The Linux Kernel : The core of operating system which handles the communication between the hardware and the software.
+	- The User Space : The environment where you interact with the system through application and command line interfaces.
+###### Distributions or Distro
+- A Linux Distro or Distribution bundles the Linux Kernel with system utilities, libraries, applications and usually a package manager.
+- Many Distros also include a desktop environment for graphical use.
+###### The Best Distro
+- Different Linux Distros make different choices about stability, software freshness, desktop experience, package management and much more.
+- So there is no single BEST distro out there. The best distro for you is what suits your needs. (Experience level, hardware, what to do)
