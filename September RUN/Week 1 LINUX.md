@@ -1,4 +1,5 @@
-###### **Linux History**
+# The History Of Linux
+###### **The Past**
  - Ken Thompson and Dennis Ritchie developed the UNIX operating system in 1969 at Bell Laboratories. 
  - UNIX was later rewritten in C to make it portable which led to its widespread adoption.
  - Richard Stallman initiated the GNU (GNU's Not UNIX) project in 1983. It aimed to create a free and open source UNIX like operating system.
@@ -11,3 +12,5 @@
 ###### Birth Of Linux Kernel
 - Linus Torvalds began developing a new kernel as his personal project (now known as Linux Kernel), which filled the GNU operating System's missing piece.
 - The combination of GNU tools and Linux Kernel created the complete open-source operating system that we know today.
+# Linux Distribution
+The word 'Linux' that people often use nowadays, is actually the Linux Kernel  
