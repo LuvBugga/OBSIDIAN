@@ -1,0 +1,5 @@
+- Linux is NOT a Operating System. It is a KERNEL (a kernel is like the middle man who talks with the hardware of the machine and the software (basically it provides communication between the hardware and the software)).
+- There are a lot of DISTRIBUTIONS (its the same as a OS like android, ios, windows etc..) of Linux. 
+- Different distributions are optimized for different tasks such as hacking or normal user use. (Well in the network series he's using the Parrot OS (primarily used for hacking) provided by HackTheBox).
+- Different distributions may or may not use the same Linux Kernel, but they always use their own patches and configuration.
+- Linux Kernel is open-source, traditionally faster, and more secure compared to other OS.
