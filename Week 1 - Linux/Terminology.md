@@ -8,4 +8,5 @@
 - dev : It holds all the devices like printers, disks etc..
 - vda and vda1 OR sda and sda1 : These are the disks in your computer system.
 - etc (etcetera or etsy) : This consists of mainly the configuration files like network settings.
-- 
+- media : When the system automatically mounts drives, it gets stored here.
+- mnt : When you manually mount a drive, it gets stored here.
