@@ -3,3 +3,4 @@
 - Different distributions are optimized for different tasks such as hacking or normal user use. (Well in the network series he's using the Parrot OS (primarily used for hacking) provided by HackTheBox).
 - Different distributions may or may not use the same Linux Kernel, but they always use their own patches and configuration.
 - Linux Kernel is open-source, traditionally faster, and more secure compared to other OS.
+- EVERYTHING in Linux is a FILE. (including all the commands, hardware, and everything)
