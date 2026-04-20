@@ -6,5 +6,9 @@
 3. cd (Change Directory) : It helps you go into different directories.
    - cd .. (cd dot dot) : Takes you back in the previous directory you were in.
 4. whoami : Tells you the username by which you are logged in.
-5. clear : It clears the entire Terminal .
-6. 
+5. clear : It clears the entire Terminal. (CTRL + L)
+6. cat (Concatenate) : It shows you what is inside of a file (eg ls or pwd).
+7. cp (Copy) : It copies a file into another file. 
+8. sudo (Super Do) : Allows the user to perform an admin task.
+9. rm (Remove) : It deletes files.
+10. adduser : Adds a new user.
