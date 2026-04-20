@@ -1,0 +1,11 @@
+- bin (Binaries) is a collection of all the ESSENTIAL commands possible in Linux Terminal. 
+- sbin : It is a collection of all the ADMINISTRATOR commands.
+- boot : Boot's files
+- var :  It has all the log files and web applications. 
+- tmp : It holds all the temporary files
+- lib : Shared libraries in the whole system essentially things your system needs to boot.
+- home : Where every user lives on your Terminal.
+- dev : It holds all the devices like printers, disks etc..
+- vda and vda1 OR sda and sda1 : These are the disks in your computer system.
+- etc (etcetera or etsy) : This consists of mainly the configuration files like network settings.
+- 

@@ -12,3 +12,4 @@
 8. sudo (Super Do) : Allows the user to perform an admin task.
 9. rm (Remove) : It deletes files.
 10. adduser : Adds a new user.
+11. which : Tells us from where the command or file is used.

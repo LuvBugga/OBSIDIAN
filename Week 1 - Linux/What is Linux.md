@@ -4,5 +4,3 @@
 - Different distributions may or may not use the same Linux Kernel, but they always use their own patches and configuration.
 - Linux Kernel is open-source, traditionally faster, and more secure compared to other OS.
 - EVERYTHING in Linux is a FILE. (including all the commands, hardware, and everything)
-- Bin (Binaries) is a collection of all the ESSENTIAL commands possible in Linux Terminal. 
-- Sbin : It is a collection of all the ADMINISTRATOR commands.
