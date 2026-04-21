@@ -13,3 +13,7 @@
 9. rm (Remove) : It deletes files.
 10. adduser : Adds a new user.
 11. which : Tells us from where the command or file is used.
+12. ps (Process Status) : Shows you the current ongoing processes. (Also your type of Shell)
+13. id = Gives all the info. about your ID.
+14. hostname = Tells you the Host name.
+15. ifconfig

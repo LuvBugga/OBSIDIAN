@@ -1,0 +1,8 @@
+- The terminal we see is actually an Terminal Emulator. The terminal is actually the keyboard and the monitor we use to communicate with the computer. (Eg: VT100)
+- We actually use SHELL to interact with the OS and the commands etc..
+- Its a sequence like : Terminal Emulator --> Shell --> Perform commands and tasks.
+- There are different types of SHELL, and the most common used are BASH (Bourne-Again Shell) and Powershell.
+- The words Terminal, Bash, Shell, Console - all refer to the same thing, the Terminal Emulator.
+- $ = Logged in as a User
+- '#' = Logged in as the ROOT User.
+- 
