@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"1bd1b91daa31a1c4","type":"group","x":-360,"y":-560,"width":1121,"height":680,"label":"INTERNET"},
+		{"id":"5bf7d630c7351d32","type":"group","x":-300,"y":-500,"width":224,"height":600,"label":"My LAN"},
+		{"id":"765b0b827bd8b42e","type":"group","x":517,"y":-500,"width":224,"height":600,"label":"Friend's LAN"},
+		{"id":"c1f13b31a805ce30","type":"text","text":"My PC ","x":-275,"y":-480,"width":175,"height":60},
+		{"id":"00ea67f0efa2a2e8","type":"text","text":"Switch","x":-275,"y":-380,"width":175,"height":60},
+		{"id":"6b3a1642c5404f82","type":"text","text":"Series of  more routers, switches, and firewalls connecting different people and networks all together ","x":112,"y":-170,"width":250,"height":140},
+		{"id":"cec435e896964a31","type":"text","text":"COD Servers","x":157,"y":-410,"width":160,"height":60},
+		{"id":"5172a4062b773326","type":"text","text":"Router ","x":-275,"y":-280,"width":175,"height":60},
+		{"id":"3bc4643bcb4f51b6","type":"text","text":"Firewall","x":-275,"y":-180,"width":175,"height":60},
+		{"id":"69939b079a15c651","type":"text","text":"Modem ","x":-280,"y":-80,"width":184,"height":50},
+		{"id":"7bd50a8e7972b662","type":"text","text":"GTPL Fiber ","x":-280,"y":0,"width":184,"height":60},
+		{"id":"c8fc7a1b39e13880","type":"text","text":"His PS4","x":542,"y":-480,"width":175,"height":60},
+		{"id":"26a49e09b382af36","type":"text","text":"Switch","x":542,"y":-380,"width":175,"height":60},
+		{"id":"9e45f265e055d1e3","type":"text","text":"Router ","x":542,"y":-280,"width":175,"height":60},
+		{"id":"c0d69aa83a4c9d10","type":"text","text":"Firewall","x":542,"y":-180,"width":175,"height":60},
+		{"id":"e7f9a2270e4855d6","type":"text","text":"Modem ","x":537,"y":-80,"width":184,"height":50},
+		{"id":"c5a0bf295314861e","type":"text","text":"GTPL Fiber ","x":537,"y":16,"width":184,"height":60},
+		{"id":"3e2176276ab212b8","x":-720,"y":-126,"width":250,"height":60,"type":"text","text":"My LAN is a part of the internet"},
+		{"id":"07d13e5c7c9b3212","x":48,"y":-760,"width":379,"height":123,"type":"text","text":"Example : If i shoot my brother in a COD game, this is how the bullet (the data) travels from my computer to my brother's"}
+	],
+	"edges":[
+		{"id":"5fa221f3cebdfb4c","fromNode":"c1f13b31a805ce30","fromSide":"bottom","toNode":"00ea67f0efa2a2e8","toSide":"top"},
+		{"id":"cd8daf0a5b4efee0","fromNode":"00ea67f0efa2a2e8","fromSide":"top","toNode":"5172a4062b773326","toSide":"top"},
+		{"id":"2c2f26185fe99519","fromNode":"5172a4062b773326","fromSide":"bottom","toNode":"3bc4643bcb4f51b6","toSide":"top"},
+		{"id":"ec8c132fe7239231","fromNode":"3bc4643bcb4f51b6","fromSide":"bottom","toNode":"69939b079a15c651","toSide":"top"},
+		{"id":"bbad99f9cf4c6394","fromNode":"69939b079a15c651","fromSide":"bottom","toNode":"7bd50a8e7972b662","toSide":"top"},
+		{"id":"b5587086e126a82e","fromNode":"7bd50a8e7972b662","fromSide":"bottom","toNode":"6b3a1642c5404f82","toSide":"bottom"},
+		{"id":"1661447159597b0c","fromNode":"6b3a1642c5404f82","fromSide":"left","toNode":"cec435e896964a31","toSide":"left"},
+		{"id":"5696b5ba4040f5f4","fromNode":"cec435e896964a31","fromSide":"right","toNode":"6b3a1642c5404f82","toSide":"right"},
+		{"id":"0d85712b3edfbb9a","fromNode":"6b3a1642c5404f82","fromSide":"bottom","toNode":"c5a0bf295314861e","toSide":"bottom"},
+		{"id":"31e7d738fd26dd9a","fromNode":"c5a0bf295314861e","fromSide":"top","toNode":"e7f9a2270e4855d6","toSide":"bottom"},
+		{"id":"56342bc4483eca54","fromNode":"e7f9a2270e4855d6","fromSide":"top","toNode":"c0d69aa83a4c9d10","toSide":"bottom"},
+		{"id":"87dfdbcc2b46f64d","fromNode":"c0d69aa83a4c9d10","fromSide":"top","toNode":"9e45f265e055d1e3","toSide":"bottom"},
+		{"id":"4d131c0ef80d58b4","fromNode":"9e45f265e055d1e3","fromSide":"top","toNode":"26a49e09b382af36","toSide":"bottom"},
+		{"id":"a0d801595e0fa0d8","fromNode":"26a49e09b382af36","fromSide":"top","toNode":"c8fc7a1b39e13880","toSide":"bottom"},
+		{"id":"644c5fa0428e9da6","fromNode":"3e2176276ab212b8","fromSide":"right","toNode":"5bf7d630c7351d32","toSide":"left"}
+	]
+}
