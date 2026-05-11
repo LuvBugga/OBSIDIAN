@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"1bd1b91daa31a1c4","type":"group","x":-360,"y":-560,"width":1121,"height":680,"label":"INTERNET"},
+		{"id":"c37346477dd5820c","x":-440,"y":-800,"width":1280,"height":1080,"type":"group","label":"Example 1"},
+		{"id":"1bd1b91daa31a1c4","type":"group","x":-400,"y":-560,"width":1200,"height":720,"label":"INTERNET"},
 		{"id":"5bf7d630c7351d32","type":"group","x":-300,"y":-500,"width":224,"height":600,"label":"My LAN"},
 		{"id":"765b0b827bd8b42e","type":"group","x":517,"y":-500,"width":224,"height":600,"label":"Friend's LAN"},
 		{"id":"c1f13b31a805ce30","type":"text","text":"My PC ","x":-275,"y":-480,"width":175,"height":60},
@@ -17,8 +18,8 @@
 		{"id":"c0d69aa83a4c9d10","type":"text","text":"Firewall","x":542,"y":-180,"width":175,"height":60},
 		{"id":"e7f9a2270e4855d6","type":"text","text":"Modem ","x":537,"y":-80,"width":184,"height":50},
 		{"id":"c5a0bf295314861e","type":"text","text":"GTPL Fiber ","x":537,"y":16,"width":184,"height":60},
-		{"id":"3e2176276ab212b8","x":-720,"y":-126,"width":250,"height":60,"type":"text","text":"My LAN is a part of the internet"},
-		{"id":"07d13e5c7c9b3212","x":48,"y":-760,"width":379,"height":123,"type":"text","text":"Example : If i shoot my brother in a COD game, this is how the bullet (the data) travels from my computer to my brother's"}
+		{"id":"07d13e5c7c9b3212","x":48,"y":-760,"width":379,"height":123,"type":"text","text":"Example : If i shoot my brother in a COD game, this is how the bullet (the data) travels from my computer to my brother's"},
+		{"id":"3e2176276ab212b8","x":113,"y":200,"width":250,"height":60,"type":"text","text":"LAN is a part of the internet"}
 	],
 	"edges":[
 		{"id":"5fa221f3cebdfb4c","fromNode":"c1f13b31a805ce30","fromSide":"bottom","toNode":"00ea67f0efa2a2e8","toSide":"top"},
@@ -35,6 +36,7 @@
 		{"id":"87dfdbcc2b46f64d","fromNode":"c0d69aa83a4c9d10","fromSide":"top","toNode":"9e45f265e055d1e3","toSide":"bottom"},
 		{"id":"4d131c0ef80d58b4","fromNode":"9e45f265e055d1e3","fromSide":"top","toNode":"26a49e09b382af36","toSide":"bottom"},
 		{"id":"a0d801595e0fa0d8","fromNode":"26a49e09b382af36","fromSide":"top","toNode":"c8fc7a1b39e13880","toSide":"bottom"},
-		{"id":"644c5fa0428e9da6","fromNode":"3e2176276ab212b8","fromSide":"right","toNode":"5bf7d630c7351d32","toSide":"left"}
+		{"id":"840b5ce1762bf6f8","fromNode":"3e2176276ab212b8","fromSide":"left","toNode":"5bf7d630c7351d32","toSide":"bottom"},
+		{"id":"8699b412e1a12b57","fromNode":"3e2176276ab212b8","fromSide":"right","toNode":"765b0b827bd8b42e","toSide":"bottom"}
 	]
 }
