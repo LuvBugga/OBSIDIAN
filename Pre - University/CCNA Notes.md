@@ -14,9 +14,12 @@ Layer 1 is the physical wire or component connected to a switch or any other dev
 - They are generally connected through Ethernet Cables (but we can also use Fiber Optics aswell). Like every other wire (except fiber optic) ethernet cables also use electrical signals to transmit data.
 - These come in different sizes like 8 ports or 48 ports version (the  more the ports the more devices you can connect together).
 - The switch is a smart device as it passes the message or data where the user intents.
-- The switch remembers the devices connected to it through layer 2 address (also called MAC address (MAC address of a device never changes)). And this data or memory is stored in CAM (Content Addressable Memory) table.
+- The switch remembers/learns the devices connected to it through layer 2 address (also called MAC address (MAC address of a device never changes)). And this data or memory is stored in CAM (Content Addressable Memory) table.
+- The messages going through layer 2 (a switch) are known as Frames. And when the message is received at user's side (we shift to layer 3) then the message is known as a Packet.
 ## Hub
 - Before switches there were hubs.
 - Hubs are called dumb devices.
 - They are built just like switches, and we can connect them through ethernet cables aswell.
 - The hub is dumb as it passes the message or data to everyone connected to the hub.
+## Wireless Access Point
+- They are the hubs of wireless communication.
